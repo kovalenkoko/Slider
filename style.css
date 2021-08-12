@@ -1,0 +1,19 @@
+.slider-container {
+  margin: 0 auto;
+  width: 555px;
+  height: 260px;
+  margin-top: 10vh;
+}
+.slider-container .slider-elem {
+  padding: 47px;
+  text-align: center;
+}
+.slider-container .slider-elem button {
+  height: 35px;
+  width: 35px;
+}
+.slider-container .slider-elem img {
+  padding: 0;
+  margin: 0;
+  width: 150px;
+}
